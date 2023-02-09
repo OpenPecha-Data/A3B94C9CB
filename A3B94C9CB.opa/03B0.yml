@@ -1,0 +1,24 @@
+segment_sources:
+  I79024269:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: EE7B
+  I3BECEFFB:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: BACE
+segment_pairs:
+  bee2c2811da6476891e0b57548242596:
+    I79024269: 5c4655bc38fe419b9235ecaa525ba025
+    I3BECEFFB: e81aaa307613498782160a8078f7fc66
+  767387a1257149d8ab9251c82f6237d2:
+    I79024269: cb2ad82360a34195a88d5b3c022d9c78
+    I3BECEFFB: f7050f177e4e479882ae71a829c621a5
+  479e0eca861b4a7da66a31c0495840de:
+    I79024269: 555c248eb4c648c980992a81edca077e
+    I3BECEFFB: 9184d197596341859dde13167995a4e3
+  b64301542d9f46758e3f187a57fb7724:
+    I79024269: 058e695e8f424046a0ea238cf02d661d
+    I3BECEFFB: 7da671000d1d401b8798c736aa22873e

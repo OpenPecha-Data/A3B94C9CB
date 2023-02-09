@@ -1,0 +1,15 @@
+id: A3B94C9CB
+title: 'MSV 6,08: Kathāvastu'
+type: translation
+pechas:
+- I79024269
+- I3BECEFFB
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:17:47.194876
+  last_modified_at: 2023-02-10 00:17:47.194891
+alignment_to_base:
+  I79024269/EE7B: 03B0
+  I3BECEFFB/BACE: 03B0
